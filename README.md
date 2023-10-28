@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/bpxxqqvps4h91.gif?width=1920&auto=webp&s=cfc8e275c41926cf002775fb17c19acecaa27c5e)]	
+![MasterHead](https://preview.redd.it/bpxxqqvps4h91.gif?width=1920&auto=webp&s=cfc8e275c41926cf002775fb17c19acecaa27c5e)
 <h1 align="center">Hi 👋, I'm Damian Prakash Murmu</h1>
 <h3 align="center">A passionate full Stack developer(MERN) from India</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/media/deb9cfe45e19500ab4817460b2a2db97.gif" alt="coding"/>
