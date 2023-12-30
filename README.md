@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full Stack developer(MERN) from India</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/media/deb9cfe45e19500ab4817460b2a2db97.gif" alt="coding"/>
 
-- 🔭 I’m currently working on **Social Media Project-Capstone Project**
+- 🔭 I’m currently working on **Video sharing platform - VidVortex**
 
 - 🌱 I’m currently learning **HTML,CSS,JS,MERN,Cloud Technology**
 
